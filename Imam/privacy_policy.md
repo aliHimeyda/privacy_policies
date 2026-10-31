@@ -3,7 +3,7 @@
 **Uygulama / App:** İmam (Imam – إمام)
 **Paket adı / Package name:** `com.alihmida.imam`
 **Yürürlük tarihi / Effective date:** 15 Ekim 2026 / October 15, 2026
-**İletişim / Contact:** [E-POSTA ADRESİNİZ / YOUR EMAIL ADDRESS]
+**İletişim / Contact:** alihameda417@gmail.com
 
 [English version below](#english)
 
@@ -24,16 +24,16 @@
 
 Aşağıdaki bilgiler uygulamanın çalışması için cihazınızda, uygulamanın kendi depolama alanında saklanır:
 
-| Bilgi | Neden saklanır? |
-|---|---|
-| Namaz ve okuma ayarları (ayet/sayfa miktarı, aktif süre, seçim kuralları) | Her namaz için bölüm seçebilmek |
-| Günlük Kur'an bölümleri ve "Çalıştım" durumları | Bugünün ve yarının bölümlerini göstermek |
-| Okuma geçmişi | Geçmiş bölümleri gösterebilmek ve aynı bölümün kısa sürede tekrar seçilmesini önlemek |
-| Konum tercihi: şehir, ülke, saat dilimi ve isteğe bağlı olarak yaklaşık koordinatlar | Namaz vakitlerini hesaplamak |
-| Namaz vakti hesaplama ayarları ve dakika düzeltmeleri | Namaz vakitlerini tercihinize göre hesaplamak |
-| Bildirim tercihleri ve yatma saati | Hatırlatmaları doğru zamanda planlamak |
-| Widget ve Mushaf görünüm tercihleri, dil ve tema seçimi | Uygulamayı tercihlerinize göre göstermek |
-| İlk kurulumun tamamlandığı bilgisi | Kurulum ekranını tekrar göstermemek |
+| Bilgi                                                                                | Neden saklanır?                                                                       |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| Namaz ve okuma ayarları (ayet/sayfa miktarı, aktif süre, seçim kuralları)            | Her namaz için bölüm seçebilmek                                                       |
+| Günlük Kur'an bölümleri ve "Çalıştım" durumları                                      | Bugünün ve yarının bölümlerini göstermek                                              |
+| Okuma geçmişi                                                                        | Geçmiş bölümleri gösterebilmek ve aynı bölümün kısa sürede tekrar seçilmesini önlemek |
+| Konum tercihi: şehir, ülke, saat dilimi ve isteğe bağlı olarak yaklaşık koordinatlar | Namaz vakitlerini hesaplamak                                                          |
+| Namaz vakti hesaplama ayarları ve dakika düzeltmeleri                                | Namaz vakitlerini tercihinize göre hesaplamak                                         |
+| Bildirim tercihleri ve yatma saati                                                   | Hatırlatmaları doğru zamanda planlamak                                                |
+| Widget ve Mushaf görünüm tercihleri, dil ve tema seçimi                              | Uygulamayı tercihlerinize göre göstermek                                              |
+| İlk kurulumun tamamlandığı bilgisi                                                   | Kurulum ekranını tekrar göstermemek                                                   |
 
 Kur'an metni ve Mushaf sayfa verileri uygulamanın içinde gelir; internetten indirilmez.
 
@@ -48,13 +48,13 @@ Konum yalnızca bulunduğunuz bölgeye göre namaz vakitlerini hesaplamak için 
 
 ### 4. Sistem izinleri
 
-| İzin | Amaç |
-|---|---|
-| Bildirimler | Namaz öncesi hatırlatmaları göstermek |
-| Konum (yaklaşık / hassas) | Namaz vakitlerini bölgenize göre hesaplamak |
-| Alarm ve hatırlatıcılar (hassas zamanlama) | Hatırlatmaların seçilen dakikada gelmesini sağlamak |
-| Cihaz açılışında çalışma | Telefon yeniden başlatıldığında planlanmış hatırlatmaları korumak |
-| Titreşim | Bildirimlerde titreşimi kullanmak (tercihe bağlı) |
+| İzin                                       | Amaç                                                              |
+| ------------------------------------------ | ----------------------------------------------------------------- |
+| Bildirimler                                | Namaz öncesi hatırlatmaları göstermek                             |
+| Konum (yaklaşık / hassas)                  | Namaz vakitlerini bölgenize göre hesaplamak                       |
+| Alarm ve hatırlatıcılar (hassas zamanlama) | Hatırlatmaların seçilen dakikada gelmesini sağlamak               |
+| Cihaz açılışında çalışma                   | Telefon yeniden başlatıldığında planlanmış hatırlatmaları korumak |
+| Titreşim                                   | Bildirimlerde titreşimi kullanmak (tercihe bağlı)                 |
 
 İzinleri istediğiniz zaman telefonunuzun ayarlarından kapatabilirsiniz. İzin vermemeniz uygulamanın diğer bölümlerini kullanmanızı engellemez.
 
@@ -108,16 +108,16 @@ Imam helps you prepare the Quran passages you will recite in the five daily pray
 
 The following information is stored on your device, in the app's own storage, so that the app can work:
 
-| Information | Why it is stored |
-|---|---|
-| Prayer and reading settings (amount in ayahs/pages, active duration, selection rules) | To select a passage for each prayer |
-| Daily Quran passages and their "I Practiced" status | To show today's and tomorrow's passages |
-| Reading history | To show past passages and avoid repeating the same passage too soon |
-| Location preference: city, country, time zone and, optionally, approximate coordinates | To calculate prayer times |
-| Prayer-time calculation settings and minute adjustments | To calculate prayer times your way |
-| Notification preferences and bedtime | To schedule reminders at the right time |
-| Widget and Mushaf appearance, language and theme preferences | To display the app the way you prefer |
-| Whether initial setup is complete | To avoid showing setup again |
+| Information                                                                            | Why it is stored                                                    |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Prayer and reading settings (amount in ayahs/pages, active duration, selection rules)  | To select a passage for each prayer                                 |
+| Daily Quran passages and their "I Practiced" status                                    | To show today's and tomorrow's passages                             |
+| Reading history                                                                        | To show past passages and avoid repeating the same passage too soon |
+| Location preference: city, country, time zone and, optionally, approximate coordinates | To calculate prayer times                                           |
+| Prayer-time calculation settings and minute adjustments                                | To calculate prayer times your way                                  |
+| Notification preferences and bedtime                                                   | To schedule reminders at the right time                             |
+| Widget and Mushaf appearance, language and theme preferences                           | To display the app the way you prefer                               |
+| Whether initial setup is complete                                                      | To avoid showing setup again                                        |
 
 The Quran text and Mushaf page data are bundled with the app; they are not downloaded from the internet.
 
@@ -132,13 +132,13 @@ Location is used only to calculate prayer times for your area.
 
 ### 4. System permissions
 
-| Permission | Purpose |
-|---|---|
-| Notifications | Show reminders before each prayer |
-| Location (approximate / precise) | Calculate prayer times for your area |
-| Alarms & reminders (exact timing) | Deliver reminders at the chosen minute |
-| Run at startup | Keep scheduled reminders after the phone restarts |
-| Vibration | Vibrate for reminders (optional) |
+| Permission                        | Purpose                                           |
+| --------------------------------- | ------------------------------------------------- |
+| Notifications                     | Show reminders before each prayer                 |
+| Location (approximate / precise)  | Calculate prayer times for your area              |
+| Alarms & reminders (exact timing) | Deliver reminders at the chosen minute            |
+| Run at startup                    | Keep scheduled reminders after the phone restarts |
+| Vibration                         | Vibrate for reminders (optional)                  |
 
 You can turn these permissions off at any time in your phone's settings. Declining a permission does not prevent you from using the rest of the app.
 
@@ -171,4 +171,4 @@ If this policy is updated, the new version will be published on this page with a
 
 ### 11. Contact
 
-For privacy questions: [YOUR EMAIL ADDRESS]
+For privacy questions: alihameda417@gmail.com
